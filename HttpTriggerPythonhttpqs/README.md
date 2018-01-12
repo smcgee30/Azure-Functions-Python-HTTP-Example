@@ -1,4 +1,4 @@
-![Azure Functions + Python HTTP](http://mediarealm.com.au/wp-content/uploads/2016/05/Azure-Functions-Python-HTTP.png)
+![Azure Functions +  Python HTTP](http://mediarealm.com.au/wp-content/uploads/2016/05/Azure-Functions-Python-HTTP.png)
 
 # Azure Functions + Python HTTP Example Code
 *Example code and helper class for Azure Functions (written in Python).*
