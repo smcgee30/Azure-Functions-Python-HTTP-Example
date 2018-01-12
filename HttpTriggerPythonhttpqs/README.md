@@ -14,4 +14,4 @@ This example code is designed to demonstrate how to use Azure Functions with Pyt
 
 Included is a simple HTTP Helper Class to parse the input data. This should make code changes easier when the Azure Functions team introduce a new interface for Python.
 
-See also: http://mediarealm.com.au/articles/2016/05/azure-functions-python-http-example-code/
+
