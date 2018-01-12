@@ -2,6 +2,7 @@ import sys, os, calendar, json
 from datetime import datetime, timedelta
 import os
 import argparse
+import urllib3
 
 postreqdata = json.loads(open(os.environ['req']).read())
 response = open(os.environ['res'], 'w')
