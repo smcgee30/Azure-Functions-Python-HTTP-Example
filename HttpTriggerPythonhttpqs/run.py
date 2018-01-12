@@ -3,8 +3,8 @@ import sys, requests, os
 # Initial setup
 
 endpoint = 'https://dashboard.signalsciences.net/api/v0'
-email = os.environ.get('SIGSCI_EMAIL')
-password = os.environ.get('SIGSCI_PASSWORD')
+email = 'isoengineering@turner.com'
+password = 'L6PRixr3ETQl4WpeAoB4AGq8fahBwW643y2nGhizJ9UTRTW4'
 
 # Authenticate
 
