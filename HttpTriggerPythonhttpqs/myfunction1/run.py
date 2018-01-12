@@ -3,7 +3,7 @@
     
     Created by Anthony Eden
     http://MediaRealm.com.au/
-    blah blah save
+    save
 """
 
 import sys, os

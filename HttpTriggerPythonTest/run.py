@@ -8,7 +8,7 @@ response = open(os.environ['res'], 'w')
 data = {
    'name' : postreqdata['name'],
    'dash' : postreqdata['dash'],
-   'price' : 542.23
+   'price' : 542.24
 }
 
 json_str = json.dumps(data)
