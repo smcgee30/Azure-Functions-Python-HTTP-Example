@@ -4,7 +4,7 @@ import sys, requests, os
 
 endpoint = 'https://dashboard.signalsciences.net/api/v0'
 email = 'isoengineering@turner.com'
-password = 'L6PRixr3ETQl4WpeAoB4AGq8fahBwW643y2nGhizJ9UTRTW4'
+password = ''
 
 # Authenticate
 
